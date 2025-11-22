@@ -11,7 +11,7 @@
 🎓 **Computer Science Graduate** from Helwan University, GPA 3.5  
 🚀 Passionate about building scalable backend systems using Java Spring Boot  
 🔍 Experienced in testing, analysis, and cross-functional collaboration  
-📍 Based in Cairo, Egypt | 🌍 Open to remote or on-site opportunities
+
 
 ---
 
