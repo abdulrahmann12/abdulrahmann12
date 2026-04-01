@@ -1,87 +1,101 @@
-<h1 align="center">Hi there 👋, I'm Abdulrahman Ahmed</h1>
+<h1 align="center">Hi, I'm Abdulrahman Ahmed</h1>
 
 <p align="center">
-💻 Backend Developer (Java Spring Boot) | 📊 Business Analyst | 🎯 QA & Tester | ☁️ Cloud Enthusiast  
+Backend Engineer specialized in building secure and scalable systems using Spring Boot  
 </p>
 
 ---
 
-### 📌 About Me
+### About Me
 
-🎓 **Computer Science Graduate** from Helwan University, GPA 3.5  
-🚀 Passionate about building scalable backend systems using Java Spring Boot  
-🔍 Experienced in testing, analysis, and cross-functional collaboration  
+Computer Science Graduate from Helwan University (GPA: 3.5)  
+Backend Developer with hands-on experience in building production-ready systems  
+Strong background in Software Testing and Business Analysis  
 
+I focus on designing clean, maintainable architectures and delivering high-performance, secure backend services that solve real-world problems.
 
 ---
 
-### 🛠️ Skills
+### Tech Stack
 
-**Languages:** Java, Dart, SQL, C, HTML/CSS  
-**Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, Flutter, Thymeleaf, WordPress  
-**Tools & Platforms:** Git, GitHub, Docker, Postman, JIRA, MySQL Workbench, GCP  
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate  
 **Databases:** MySQL, PostgreSQL, Firebase  
-**Testing:** Manual Testing, Automation Testing, Selenium, STLC, Bug Reporting, JUnit  
-**Other:** REST APIs, JWT, Lombok, Swagger, Maven, Gradle
+**Testing:** JUnit, Selenium, Manual Testing, STLC  
+**Tools:** Git, GitHub, Docker, Postman, JIRA, MySQL Workbench, GCP  
+**Other:** REST APIs, JWT, Swagger, Maven, Gradle  
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Backend Developer – INVO**  
-📍 Cairo, Egypt | 🗓️ Feb 2023 – Feb 2024  
-- Built and maintained REST APIs with Spring Boot & MySQL  
-- Implemented JWT-based authentication and RBAC with Spring Security  
-- Optimized database queries and ensured secure endpoints  
-- Participated in agile sprints and conducted API validation with Postman
+Cairo, Egypt | Feb 2023 – Feb 2024  
+
+- Designed and developed scalable REST APIs using Spring Boot and MySQL  
+- Implemented JWT-based authentication and role-based access control using Spring Security  
+- Optimized database queries to improve performance and reduce response times  
+- Ensured API reliability and correctness through testing and validation using Postman  
+- Collaborated within agile teams to deliver features efficiently  
+
+---
 
 **Flutter Developer – INVO**  
-📍 Cairo, Egypt | 🗓️ Feb 2022 – Sep 2022  
-- Developed cross-platform apps using Flutter & Dart  
-- Applied clean architecture patterns and managed state using Provider/BLoC
+Cairo, Egypt | Feb 2022 – Sep 2022  
+
+- Built cross-platform mobile applications using Flutter and Dart  
+- Applied clean architecture principles and state management using Provider and BLoC  
+- Collaborated with backend teams to integrate APIs and ensure smooth data flow  
+
+---
 
 **Business Analyst / QA Tester – Lastarrow**  
-📍 Remote | 🗓️ Jul 2024 – Mar 2025  
-- Analyzed business needs and translated them into technical documentation  
-- Conducted manual testing and reported bugs across multiple client websites  
-- Collaborated with developers for testing and feature validation
+Remote | Jul 2024 – Mar 2025  
+
+- Analyzed business requirements and translated them into clear technical documentation  
+- Performed manual testing and identified bugs across multiple client systems  
+- Collaborated with developers to validate features and ensure product quality  
 
 ---
 
-### 🚀 Projects
+### Projects
 
-**🛒 E-commerce Platform**  
-📆 Dec 2023 – Feb 2024 | Java Spring Boot, MySQL  
-- Full backend system for an online store  
-- JWT authentication, Spring Security, product & order management REST APIs
+**E-commerce Backend System**  
+Dec 2023 – Feb 2024 | Java, Spring Boot, MySQL  
 
-**🖨️ Printo Clone**  
-📆 Mar 2025 – Present | Java Spring Boot, Maven, Android  
-- Designed product entities with EAV structure  
-- Built modules for users, orders, inventory & secure admin dashboard
+- Built a complete backend system for an online store  
+- Designed and implemented REST APIs for product, order, and user management  
+- Integrated JWT authentication and role-based authorization  
+- Applied clean architecture principles to ensure scalability and maintainability  
 
 ---
 
-### 📈 GitHub Stats
+**Printo Clone System**  
+Mar 2025 – Present | Java, Spring Boot, Maven  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmann12&show_icons=true&theme=tokyonight" alt="Abdulrahman's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmann12&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
----
-
-### 📫 Contact Me
-
-- 📧 Email: [abdulraman.ahmedd@gmail.com](mailto:abdulraman.ahmedd@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abdelrahman-ahmed-0b9793221](https://linkedin.com/in/abdelrahman-ahmed-0b9793221)  
-- 💻 GitHub: [github.com/abdulrahmann12](https://github.com/abdulrahmann12)
+- Designed a flexible product system using EAV (Entity-Attribute-Value) model  
+- Built modules for users, orders, and inventory management  
+- Developed secure admin functionalities and structured backend architecture  
+- Focused on scalability and extensibility of the system  
 
 ---
 
-### 🗣️ Languages
+### Currently Working On
 
-- Arabic: Native  
-- English: Very Good
+- Improving backend performance and query optimization techniques  
+- Learning advanced system design and scalable architecture patterns  
+- Exploring cloud deployment and containerization strategies  
 
 ---
+
+### Contact
+
+Email: abdulraman.ahmedd@gmail.com  
+LinkedIn: https://linkedin.com/in/abdelrahman-ahmed-0b9793221  
+GitHub: https://github.com/abdulrahmann12  
+
+---
+
+### Languages
+
+Arabic: Native  
+English: Very Good  
