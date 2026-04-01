@@ -59,6 +59,28 @@ Remote | Jul 2024 – Mar 2025
 
 ### Projects
 
+**Exam Management System**  
+Java, Spring Boot, MySQL  
+
+- Designed and built a scalable system for managing exams, questions, and student submissions  
+- Implemented file upload and parsing mechanisms to extract questions automatically  
+- Developed REST APIs for exam creation, student participation, and result evaluation  
+- Applied validation and error handling to ensure system reliability  
+- Focused on performance and handling concurrent users during exam sessions  
+
+---
+
+**ERP System (Enterprise Resource Planning)**  
+Java, Spring Boot, PostgreSQL  
+
+- Built a modular backend system to manage core business operations (users, roles, inventory, orders)  
+- Implemented role-based access control (RBAC) and secure authentication using Spring Security  
+- Designed scalable database structure to support multiple business domains  
+- Developed RESTful services to integrate different modules within the system  
+- Focused on maintainability and extensibility of the architecture  
+
+---
+
 **E-commerce Backend System**  
 Dec 2023 – Feb 2024 | Java, Spring Boot, MySQL  
 
@@ -75,7 +97,7 @@ Mar 2025 – Present | Java, Spring Boot, Maven
 - Designed a flexible product system using EAV (Entity-Attribute-Value) model  
 - Built modules for users, orders, and inventory management  
 - Developed secure admin functionalities and structured backend architecture  
-- Focused on scalability and extensibility of the system  
+- Focused on scalability and extensibility of the system
 
 ---
 
