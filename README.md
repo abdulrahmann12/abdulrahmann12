@@ -1,174 +1,164 @@
-# Hi 👋, I'm Abdulrahman Ahmed
+<h1 align="center">Hi 👋, I'm Abdulrahman Ahmed</h1>
 
 <h3 align="center">
-Backend Engineer | Java & Spring Boot Specialist | Building Secure & Scalable Systems
+Backend Engineer building scalable systems with Java, Spring Boot, and PostgreSQL
 </h3>
 
 <p align="center">
-Passionate about designing high-performance backend architectures, secure REST APIs, and scalable enterprise applications.
-</p>
-
-<p align="center">
-<a href="https://github.com/abdulrahmann12">
-<img src="https://komarev.com/ghpvc/?username=abdulrahmann12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
+Passionate about backend architecture, API development, security, and performance optimization.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Graduate from **Helwan University** (GPA: 3.5)
+🎓 Computer Science Graduate from Helwan University (GPA: 3.5)
 
-💼 Backend Engineer with professional experience building production-ready systems using **Java & Spring Boot**
+Backend Engineer specialized in building secure, scalable, and maintainable backend systems using Java and Spring Boot.
 
-🔐 Specialized in:
+I enjoy transforming complex business requirements into reliable software solutions through clean architecture, optimized databases, and well-designed APIs.
 
-* Secure Authentication & Authorization
-* RESTful API Design
-* Database Design & Optimization
-* Scalable Backend Architecture
-* System Performance Optimization
+### Areas of Interest
 
-📈 Strong background in:
-
-* Software Testing & Quality Assurance
-* Business Analysis
-* Requirements Engineering
-
-I enjoy turning complex business requirements into reliable, maintainable, and scalable software solutions.
+* Backend Development
+* System Design
+* RESTful APIs
+* Authentication & Authorization
+* Database Optimization
+* Software Architecture
+* Performance Engineering
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend Development
+### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### Testing & QA
-
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-
-### Tools & Platforms
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira)
-![Google\_Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## 🔥 Featured Projects
 
-### Backend Developer | INVO
+### 🚀 Blink URL Shortener Platform
 
-📍 Cairo, Egypt
-📅 Feb 2023 – Feb 2024
+A production-oriented URL shortening platform built with Spring Boot.
 
-* Developed scalable REST APIs using Spring Boot and MySQL
-* Implemented JWT Authentication and Role-Based Access Control (RBAC)
-* Optimized database operations and query performance
-* Collaborated in Agile teams to deliver production-ready features
-* Performed API testing and validation using Postman
+#### Highlights
 
----
+* URL Shortening & Custom Aliases
+* JWT Authentication & RBAC
+* QR Code Generation
+* Click Analytics & Tracking
+* Device & Geographic Analytics
+* Rate Limiting Protection
+* Caching for Performance Optimization
+* Secure REST APIs
+* Clean Architecture
 
-### Business Analyst / QA Tester | Lastarrow
-
-📍 Remote
-📅 Jul 2024 – Mar 2025
-
-* Gathered and analyzed business requirements
-* Produced clear functional and technical documentation
-* Executed manual testing across multiple systems
-* Identified defects and collaborated with developers to improve product quality
-* Ensured alignment between business requirements and delivered functionality
+**Tech:** Java, Spring Boot, Spring Security, MySQL, JWT, Redis, Docker
 
 ---
 
-### Flutter Developer | INVO
+### 🚀 ERP System
 
-📍 Cairo, Egypt
-📅 Feb 2022 – Sep 2022
+Enterprise Resource Planning backend system designed using a modular architecture.
 
-* Built cross-platform mobile applications using Flutter
-* Applied Clean Architecture principles
-* Used Provider and BLoC for state management
-* Integrated mobile applications with backend APIs
+#### Features
 
----
-
-## 🚀 Featured Projects
-
-### Exam Management System
-
-**Tech:** Java, Spring Boot, MySQL
-
-* Built a complete platform for exam creation and student assessment
-* Implemented automatic question extraction through file parsing
-* Designed APIs for exam management and result evaluation
-* Applied validation, exception handling, and concurrency considerations
-
----
-
-### ERP System
+* User Management
+* Role-Based Access Control (RBAC)
+* Inventory Management
+* Order Management
+* Secure Authentication
+* Modular Scalable Design
 
 **Tech:** Java, Spring Boot, PostgreSQL
 
-* Developed a modular enterprise management platform
-* Implemented authentication and role-based authorization
-* Designed scalable database structures across multiple domains
-* Built RESTful services for seamless module integration
-
 ---
 
-### E-Commerce Backend System
+### 🚀 Exam Management System
+
+Comprehensive platform for creating, managing, and evaluating examinations.
+
+#### Features
+
+* Exam Creation & Scheduling
+* Student Participation
+* Automatic Question Extraction
+* File Upload & Parsing
+* Result Evaluation
+* Concurrent User Handling
 
 **Tech:** Java, Spring Boot, MySQL
 
-* Developed a complete backend architecture for online stores
-* Built APIs for products, orders, and user management
-* Implemented JWT authentication and authorization
-* Applied clean architecture and best practices for maintainability
+---
+
+### 🚀 Printo Clone System
+
+Scalable printing and product management platform.
+
+#### Features
+
+* EAV Product Architecture
+* Dynamic Product Attributes
+* Inventory Management
+* Order Processing
+* Admin Dashboard APIs
+* Extensible Product System
+
+**Tech:** Java, Spring Boot, PostgreSQL
 
 ---
 
-### Printo Clone System (Current Project)
+### 🚀 E-Commerce Backend
 
-**Tech:** Java, Spring Boot, Maven
+Complete backend architecture for an online store.
 
-* Designed a flexible EAV (Entity-Attribute-Value) product model
-* Built inventory, order, and user management modules
-* Developed secure admin functionality
-* Focused on scalability and extensibility for future growth
+#### Features
+
+* Product Management
+* User Management
+* Order Workflow
+* JWT Authentication
+* Role-Based Authorization
+* RESTful APIs
+
+**Tech:** Java, Spring Boot, MySQL
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 * Advanced System Design
-* Distributed Systems Concepts
+* Distributed Systems
 * Microservices Architecture
-* Cloud Deployment Strategies
-* Docker & Container Orchestration
-* Performance Optimization & Query Tuning
+* Docker & Containerization
+* Cloud Deployment
+* Database Performance Tuning
+* Scalability Patterns
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrahmann12&show_icons=true&theme=tokyonight" />
@@ -181,9 +171,22 @@ I enjoy turning complex business requirements into reliable, maintainable, and s
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-📧 Email: **[abdulraman.ahmedd@gmail.com](mailto:abdulraman.ahmedd@gmail.com)**
+Building enterprise-grade backend systems with:
+
+* Spring Boot
+* Spring Security
+* PostgreSQL
+* Redis
+* Docker
+* Scalable System Design
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [abdulraman.ahmedd@gmail.com](mailto:abdulraman.ahmedd@gmail.com)
 
 💼 LinkedIn:
 https://linkedin.com/in/abdelrahman-ahmed-0b9793221
@@ -200,6 +203,6 @@ https://github.com/abdulrahmann12
 
 ---
 
-### 💡 Philosophy
+### 💡 Engineering Mindset
 
-> Great software is not just about writing code. It's about building reliable systems that solve real problems, scale efficiently, and remain maintainable over time.
+> I enjoy building backend systems that are secure, scalable, maintainable, and capable of solving real-world business problems.
