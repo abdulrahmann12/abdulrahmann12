@@ -1,208 +1,178 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Ahmed</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Engineer building scalable systems with Java, Spring Boot, and PostgreSQL
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4985&height=200&section=header&text=Abdulrahman%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descAlign=50&descColor=a8c8f0" width="100%"/>
 
-<p align="center">
-Passionate about backend architecture, API development, security, and performance optimization.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F4985&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%2B+Node.js+%2B+PostgreSQL;Clean+Architecture+Advocate;473%2B+Commits+%26+Counting+%F0%9F%9A%80;Building+Enterprise+ITSM+Platforms" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+[![GitHub followers](https://img.shields.io/github/followers/abdulrahmann12?label=Followers&style=for-the-badge&color=0F4985&labelColor=0a2f55)](https://github.com/abdulrahmann12)
+[![GitHub Stars](https://img.shields.io/github/stars/abdulrahmann12?label=Stars&style=for-the-badge&color=DF3E2F&labelColor=8b1a10)](https://github.com/abdulrahmann12)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmann12&style=for-the-badge&color=0F4985&label=PROFILE+VIEWS)](https://github.com/abdulrahmann12)
 
-🎓 Computer Science Graduate from Helwan University (GPA: 3.5)
-
-Backend Engineer specialized in building secure, scalable, and maintainable backend systems using Java and Spring Boot.
-
-I enjoy transforming complex business requirements into reliable software solutions through clean architecture, optimized databases, and well-designed APIs.
-
-### Areas of Interest
-
-* Backend Development
-* System Design
-* RESTful APIs
-* Authentication & Authorization
-* Database Optimization
-* Software Architecture
-* Performance Engineering
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
+
+```typescript
+const abdulrahman = {
+  name:       "Abdulrahman Ahmed",
+  role:       "Full-Stack Software Engineer",
+  location:   "Egypt 🇪🇬",
+  company:    "eSkyIT",
+  project:    "eSkyIT ITSM Portal — Enterprise IT Service Management Platform",
+
+  currentFocus: [
+    "Clean Architecture migration & modular backend design",
+    "Real-time features with WebSockets & Socket.io",
+    "RBAC & data-scoping systems for multi-tenant SaaS",
+    "SLA contract lifecycle & enterprise workflow automation",
+  ],
+
+  skills: {
+    frontend:  ["React 18", "Vite", "JavaScript (ES2022+)", "HTML5", "CSS3"],
+    backend:   ["Node.js", "Express.js", "REST APIs", "Socket.io"],
+    database:  ["PostgreSQL", "Hand-written SQL", "DB Migrations", "FK normalization"],
+    auth:      ["JWT", "RBAC", "Data Scoping", "Permission Layers"],
+    tools:     ["Git", "GitHub", "RabbitMQ", "jsPDF", "Linux"],
+    practices: ["Clean Architecture", "MVC", "Repository Pattern", "ADR"],
+  },
+
+  funFact: "I've written 473+ commits on a single enterprise project 🔥",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Databases
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Project — eSkyIT ITSM Portal
 
-### 🚀 Blink URL Shortener Platform
+> An enterprise-grade **IT Service Management platform** built from the ground up with a focus on clean architecture, real-time collaboration, and multi-tenant security.
 
-A production-oriented URL shortening platform built with Spring Boot.
+<table>
+<tr>
+<td width="50%">
 
-#### Highlights
+**🎯 What it does**
+- Full ticket lifecycle management (Incidents, Requests, Upgrades)
+- SLA contract tracking with renewal term architecture
+- Real-time chat with read receipts & seen indicators
+- Drive personal area with uploader authority & folder visibility
+- Knowledge Base with audience scoping
+- Role-based access control (RBAC) with granular permission keys
+- Multi-tenant data scoping across all entities
 
-* URL Shortening & Custom Aliases
-* JWT Authentication & RBAC
-* QR Code Generation
-* Click Analytics & Tracking
-* Device & Geographic Analytics
-* Rate Limiting Protection
-* Caching for Performance Optimization
-* Secure REST APIs
-* Clean Architecture
+</td>
+<td width="50%">
 
-**Tech:** Java, Spring Boot, Spring Security, MySQL, JWT, Redis, Docker
+**📊 My contribution stats**
+| Metric | Value |
+|--------|-------|
+| 🔥 Total commits | **473+** |
+| 🗄️ DB migrations authored | **108** |
+| 🏛️ Architecture Decision Records | **11+** |
+| 🧩 Clean Architecture modules | **15+** |
+| 🔒 Permission keys designed | **20+** |
+| 📅 Active development | Sep 2026 – Present |
 
----
+</td>
+</tr>
+</table>
 
-### 🚀 ERP System
-
-Enterprise Resource Planning backend system designed using a modular architecture.
-
-#### Features
-
-* User Management
-* Role-Based Access Control (RBAC)
-* Inventory Management
-* Order Management
-* Secure Authentication
-* Modular Scalable Design
-
-**Tech:** Java, Spring Boot, PostgreSQL
-
----
-
-### 🚀 Exam Management System
-
-Comprehensive platform for creating, managing, and evaluating examinations.
-
-#### Features
-
-* Exam Creation & Scheduling
-* Student Participation
-* Automatic Question Extraction
-* File Upload & Parsing
-* Result Evaluation
-* Concurrent User Handling
-
-**Tech:** Java, Spring Boot, MySQL
+**Key architectural achievements:**
+- ✅ Designed and implemented a full **RBAC + Data Scoping layer** (ADRs 0004, 0005)
+- ✅ Built **Drive Personal Area** with byte-level purge protection (ADR 0011)
+- ✅ Architected **Contract Renewal Terms** as row-based history (Migration 101)
+- ✅ Delivered **Chat Read Receipts** with real-time socket events (Migration 107)
+- ✅ Migrated **15+ backend modules** to Clean Architecture (Migrations 103–108)
 
 ---
 
-### 🚀 Printo Clone System
+## 📈 GitHub Stats
 
-Scalable printing and product management platform.
+<div align="center">
 
-#### Features
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahmann12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=0F4985&title_color=0F4985&icon_color=DF3E2F"/>
 
-* EAV Product Architecture
-* Dynamic Product Attributes
-* Inventory Management
-* Order Processing
-* Admin Dashboard APIs
-* Extensible Product System
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmann12&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=0F4985&title_color=0F4985&langs_count=8"/>
 
-**Tech:** Java, Spring Boot, PostgreSQL
+</div>
 
----
+<div align="center">
 
-### 🚀 E-Commerce Backend
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahmann12&theme=tokyonight&background=0d1117&border=0F4985&ring=0F4985&fire=DF3E2F&currStreakLabel=0F4985)](https://git.io/streak-stats)
 
-Complete backend architecture for an online store.
-
-#### Features
-
-* Product Management
-* User Management
-* Order Workflow
-* JWT Authentication
-* Role-Based Authorization
-* RESTful APIs
-
-**Tech:** Java, Spring Boot, MySQL
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🏆 GitHub Trophies
 
-* Advanced System Design
-* Distributed Systems
-* Microservices Architecture
-* Docker & Containerization
-* Cloud Deployment
-* Database Performance Tuning
-* Scalability Patterns
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrahmann12&theme=tokyonight&column=7&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 Contribution Activity
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrahmann12&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmann12&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmann12&layout=compact&theme=tokyonight" />
-</p>
+[![Abdulrahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmann12&bg_color=0d1117&color=0F4985&line=0F4985&point=DF3E2F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 📫 Connect With Me
 
-Building enterprise-grade backend systems with:
+<div align="center">
 
-* Spring Boot
-* Spring Security
-* PostgreSQL
-* Redis
-* Docker
-* Scalable System Design
+[![Email](https://img.shields.io/badge/Email-abdulrahmann12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmann12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abdulrahmann12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrahmann12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmann12)
 
----
-
-## 🤝 Connect With Me
-
-📧 Email: [abdulraman.ahmedd@gmail.com](mailto:abdulraman.ahmedd@gmail.com)
-
-💼 LinkedIn:
-https://linkedin.com/in/abdelrahman-ahmed-0b9793221
-
-🐙 GitHub:
-https://github.com/abdulrahmann12
+</div>
 
 ---
 
-## 🌍 Languages
+<div align="center">
 
-* Arabic — Native
-* English — Very Good
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4985&height=100&section=footer" width="100%"/>
 
----
-
-### 💡 Engineering Mindset
-
-> I enjoy building backend systems that are secure, scalable, maintainable, and capable of solving real-world business problems.
+</div>
