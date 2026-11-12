@@ -106,8 +106,8 @@ A full-stack system for scheduling university exams and assigning invigilators.
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulrahmann12&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmann12&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=58A6FF" alt="Top languages"/>
+  <img height="165" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages"/>
 </p>
 
 <p align="center"><sub>Always learning, always shipping. Feel free to reach out 🤝</sub></p>
