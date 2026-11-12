@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F4985&height=200&section=header&text=Abdulrahman%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descAlign=50&descColor=a8c8f0" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F4985&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%2B+Node.js+%2B+PostgreSQL;Clean+Architecture+Advocate;473%2B+Commits+%26+Counting+%F0%9F%9A%80;Building+Enterprise+ITSM+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F4985&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React+%2B+Node.js+%2B+Spring+Boot;PostgreSQL+%2B+MySQL+%2B+Clean+Architecture;473%2B+Commits+%26+Counting+%F0%9F%9A%80;Building+Enterprise+Platforms+from+Scratch" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,25 +24,25 @@ const abdulrahman = {
   role:       "Full-Stack Software Engineer",
   location:   "Egypt 🇪🇬",
   company:    "eSkyIT",
-  project:    "eSkyIT ITSM Portal — Enterprise IT Service Management Platform",
 
   currentFocus: [
-    "Clean Architecture migration & modular backend design",
-    "Real-time features with WebSockets & Socket.io",
-    "RBAC & data-scoping systems for multi-tenant SaaS",
-    "SLA contract lifecycle & enterprise workflow automation",
+    "Enterprise ITSM platform — Clean Architecture & modular backend",
+    "Real-time features with WebSockets (Socket.io & Spring WebSocket)",
+    "RBAC & multi-tenant data-scoping systems",
+    "SLA contract lifecycle & workflow automation",
   ],
 
   skills: {
-    frontend:  ["React 18", "Vite", "JavaScript (ES2022+)", "HTML5", "CSS3"],
-    backend:   ["Node.js", "Express.js", "REST APIs", "Socket.io"],
-    database:  ["PostgreSQL", "Hand-written SQL", "DB Migrations", "FK normalization"],
-    auth:      ["JWT", "RBAC", "Data Scoping", "Permission Layers"],
-    tools:     ["Git", "GitHub", "RabbitMQ", "jsPDF", "Linux"],
-    practices: ["Clean Architecture", "MVC", "Repository Pattern", "ADR"],
+    frontend:  ["React 18", "Vite", "JavaScript (ES2022+)", "Tailwind CSS"],
+    backend:   ["Node.js", "Express.js", "Java 21", "Spring Boot 3"],
+    database:  ["PostgreSQL", "MySQL", "Prisma ORM", "JPA / Hibernate"],
+    auth:      ["JWT (jjwt / jsonwebtoken)", "Spring Security", "RBAC"],
+    realtime:  ["Socket.io", "Spring WebSocket", "RabbitMQ"],
+    tools:     ["Git", "GitHub", "Docker", "Maven", "Lombok"],
+    practices: ["Clean Architecture", "Package-by-Feature", "ADR", "REST API Design"],
   },
 
-  funFact: "I've written 473+ commits on a single enterprise project 🔥",
+  funFact: "I've shipped 473+ commits across enterprise projects — and counting 🔥",
 };
 ```
 
@@ -56,49 +56,64 @@ const abdulrahman = {
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### Backend — JavaScript
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Backend — Java
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring WebSocket](https://img.shields.io/badge/Spring_WebSocket-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC1C1C?style=for-the-badge&logo=lombok&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### Tools & Practices
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Project — eSkyIT ITSM Portal
+## 🚀 Featured Projects
 
-> An enterprise-grade **IT Service Management platform** built from the ground up with a focus on clean architecture, real-time collaboration, and multi-tenant security.
+### 🏢 eSkyIT ITSM Portal
+> **Enterprise IT Service Management Platform** — my primary ongoing project
+
+An enterprise-grade platform built from scratch for multi-tenant IT service operations, featuring a complete ticket lifecycle, SLA contracts, real-time collaboration, and a Drive file management system.
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 What it does**
-- Full ticket lifecycle management (Incidents, Requests, Upgrades)
-- SLA contract tracking with renewal term architecture
-- Real-time chat with read receipts & seen indicators
-- Drive personal area with uploader authority & folder visibility
-- Knowledge Base with audience scoping
-- Role-based access control (RBAC) with granular permission keys
-- Multi-tenant data scoping across all entities
+**🔧 Stack**
+- **Frontend:** React 18 + Vite + HashRouter
+- **Backend:** Node.js + Express.js + Socket.io
+- **Database:** PostgreSQL (hand-written SQL, 108 migrations)
+- **Auth:** JWT + granular RBAC + Data Scoping
+- **Messaging:** RabbitMQ (email/notification queues)
+- **Architecture:** Clean Architecture (Package-by-Feature)
 
 </td>
 <td width="50%">
 
-**📊 My contribution stats**
+**📊 My Stats**
 | Metric | Value |
 |--------|-------|
 | 🔥 Total commits | **473+** |
@@ -106,18 +121,84 @@ const abdulrahman = {
 | 🏛️ Architecture Decision Records | **11+** |
 | 🧩 Clean Architecture modules | **15+** |
 | 🔒 Permission keys designed | **20+** |
-| 📅 Active development | Sep 2026 – Present |
 
 </td>
 </tr>
 </table>
 
-**Key architectural achievements:**
-- ✅ Designed and implemented a full **RBAC + Data Scoping layer** (ADRs 0004, 0005)
-- ✅ Built **Drive Personal Area** with byte-level purge protection (ADR 0011)
-- ✅ Architected **Contract Renewal Terms** as row-based history (Migration 101)
-- ✅ Delivered **Chat Read Receipts** with real-time socket events (Migration 107)
-- ✅ Migrated **15+ backend modules** to Clean Architecture (Migrations 103–108)
+**Key features delivered:**
+- ✅ Full ticket lifecycle (Incidents, Service Requests, Upgrades) with SLA tracking
+- ✅ Contract Renewal Terms — row-based history architecture (Migration 101)
+- ✅ Chat Read Receipts with live "seen" socket events (Migration 107)
+- ✅ Notification alert system — desktop alerts, sound, tab badge
+- ✅ Drive Personal Area with uploader authority & folder visibility (ADR 0011)
+- ✅ Knowledge Base with audience scoping (Internal / Customer / Public)
+- ✅ Multi-tenant RBAC data scoping across all 15+ modules
+
+---
+
+### 🏗️ OTTIMA — Finishing Project Tracking System
+> **Production-grade construction project management platform**
+
+A real-time, event-driven platform for tracking residential and commercial finishing projects, orchestrating three distinct user roles (Admin, Engineer, Client) through a secure Spring Boot backend.
+
+<table>
+<tr>
+<td width="50%">
+
+**🔧 Stack**
+- **Frontend:** React 18 + Vite + Tailwind CSS
+- **Backend:** Java 21 + Spring Boot 3 + Spring Security
+- **Database:** MySQL + JPA / Hibernate
+- **Auth:** JWT (jjwt 0.12.6) + Spring Security
+- **Realtime:** Spring WebSocket
+- **DevOps:** Docker
+- **Architecture:** Package-by-Feature
+
+</td>
+<td width="50%">
+
+**🎯 Highlights**
+- 3-role system: Admin · Engineer · Client
+- Real-time project status updates via WebSocket
+- Secure JWT authentication with Spring Security
+- Dockerized for production deployment
+- Full REST API contract with Unified Response Envelope
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 Learn Platform
+> **Learning management & team collaboration platform**
+
+A full-stack learning platform with team/department/organization management, role-based access, and activity tracking.
+
+<table>
+<tr>
+<td width="50%">
+
+**🔧 Stack**
+- **Frontend:** React 18 + Vite + Tailwind CSS
+- **Backend:** Node.js + Express.js
+- **Database:** PostgreSQL + Prisma ORM
+- **Auth:** JWT + Role-based access
+- **Architecture:** Feature-based modular structure
+
+</td>
+<td width="50%">
+
+**🎯 Highlights**
+- Modules: Auth · Users · Teams · Departments · Organizations · Roles
+- Full activity log tracking across all entities
+- Prisma ORM with PostgreSQL — schema-driven migrations
+- Vercel-ready frontend deployment config
+
+</td>
+</tr>
+</table>
 
 ---
 
